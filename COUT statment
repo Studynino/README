@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+/**********************************************************************
+ * Main will output message to the screen.
+ ***********************************************************************/
+int main()
+{
+   // output message to console
+   cout << "Hello, my name is Jordan Studyvin!\n";
+
+   // exit without error
+   return 0;
+}
